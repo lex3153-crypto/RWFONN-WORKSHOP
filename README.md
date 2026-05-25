@@ -74,7 +74,7 @@ A MathWorks account is required.
 
 # Repository Structure
 
-
+```text
 RWFONN-WORKSHOP/
 │
 ├── matlab_examples
@@ -103,6 +103,7 @@ RWFONN-WORKSHOP/
 │
 ├── LICENSE
 └── README.md
+```
 
 ---
 
