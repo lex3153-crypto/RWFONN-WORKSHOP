@@ -15,7 +15,7 @@
 ## Instructors
 
 **Dr. Daniel Alejandro Magallón García**  
-1. Preparatoria Regional de Lagos de Moreno, Universidad de Guadalajara  
+1. Coordinación Académica Región Altiplano Oeste, Universidad Autónoma de San Luis Potosí/ Preparatoria Regional de Lagos de Moreno, Universidad de Guadalajara  
 2. Coordinación Académica Región Altiplano Oeste, Universidad Autónoma de San Luis Potosí
 
 **Dr. Luis Javier Ontañón García Pimentel**  
