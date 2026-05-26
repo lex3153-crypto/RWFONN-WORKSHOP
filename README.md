@@ -204,27 +204,33 @@ Published research articles (.pdf)
 ---
 
 ## Related Publications
-[1] Magallón-García, Daniel Alejandro, et al.
-"Real-Time Observer and Neuronal Identification of an Erbium-Doped Fiber Laser."
-Photonics, vol. 12, no. 10, MDPI, 2025.
-[2] Magallón-García, Daniel Alejandro, et al.
-"Experimental State Observer of the Population Inversion of a Multistable Erbium-Doped Fiber Laser."
-Photonics, vol. 11, no. 10, MDPI, 2024.
-[3] Echenausía-Monroy, José Luis, et al.
-"A Recurrent Neural Network for Identifying Multiple Chaotic Systems."
-Mathematics, vol. 12, no. 12, 2024, p. 1835.
-[4] Ontañón-García, Luis Javier, et al.
-"Algorithm for Generating Bifurcation Diagrams Using Poincaré Intersection Plane."
-Mathematics, vol. 13, no. 11, 2025, p. 1818.
-[5] Lorenz, Edward N.
-"Deterministic Nonperiodic Flow."
-Universality in Chaos, 2nd ed., Routledge, 2017, pp. 367–378.
-[6] Rössler, Otto E.
-"Different Types of Chaos in Two Simple Differential Equations."
-Zeitschrift für Naturforschung A, vol. 31, no. 12, 1976, pp. 1664–1670.
-[7] Keleş, Zeynep, Güray Sonugür, and Murat Alcın.
-"The Modeling of the Rucklidge Chaotic System with Artificial Neural Networks."
-Chaos Theory and Applications, vol. 5, no. 2, 2023, pp. 59–64.
+1. Magallón-García, Daniel Alejandro, et al.  
+   *"Real-Time Observer and Neuronal Identification of an Erbium-Doped Fiber Laser."*  
+   Photonics, vol. 12, no. 10, MDPI, 2025.
+
+2. Magallón-García, Daniel Alejandro, et al.  
+   *"Experimental State Observer of the Population Inversion of a Multistable Erbium-Doped Fiber Laser."*  
+   Photonics, vol. 11, no. 10, MDPI, 2024.
+
+3. Echenausía-Monroy, José Luis, et al.  
+   *"A Recurrent Neural Network for Identifying Multiple Chaotic Systems."*  
+   Mathematics, vol. 12, no. 12, 2024, p. 1835.
+
+4. Ontañón-García, Luis Javier, et al.  
+   *"Algorithm for Generating Bifurcation Diagrams Using Poincaré Intersection Plane."*  
+   Mathematics, vol. 13, no. 11, 2025, p. 1818.
+
+5. Lorenz, Edward N.  
+   *"Deterministic Nonperiodic Flow."*  
+   Universality in Chaos, 2nd ed., Routledge, 2017, pp. 367–378.
+
+6. Rössler, Otto E.  
+   *"Different Types of Chaos in Two Simple Differential Equations."*  
+   Zeitschrift für Naturforschung A, vol. 31, no. 12, 1976, pp. 1664–1670.
+
+7. Keleş, Zeynep, Güray Sonugür, and Murat Alcın.  
+   *"The Modeling of the Rucklidge Chaotic System with Artificial Neural Networks."*  
+   Chaos Theory and Applications, vol. 5, no. 2, 2023, pp. 59–64.
 
 ---
 
