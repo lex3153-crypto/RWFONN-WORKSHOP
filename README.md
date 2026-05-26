@@ -275,4 +275,5 @@ D.A.M.G acknowledges the support of SECIHTI, which received an academic postdoct
 For questions related to the workshop material, please contact the workshop instructors through their institutional affiliations.
 
 daniel.magallon6532@academicos.udg.mx
+
 luis.ontanon@uaslp.mx
